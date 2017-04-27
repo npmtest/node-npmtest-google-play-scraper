@@ -51,8 +51,8 @@
 <tspan x="10" y="778">  │ │ │ └── tr46@0.0.3 </tspan>
 <tspan x="10" y="794">  │ │ └── xml-name-validator@2.0.1 </tspan>
 <tspan x="10" y="810">  │ └── lodash@4.17.4 </tspan>
-<tspan x="10" y="826">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="842">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="826">  ├─┬ debug@2.6.5 </tspan>
+<tspan x="10" y="842">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="858">  ├─┬ memoizee@0.3.10 </tspan>
 <tspan x="10" y="874">  │ ├── d@0.1.1 </tspan>
 <tspan x="10" y="890">  │ ├─┬ es5-ext@0.10.15 </tspan>
@@ -105,7 +105,7 @@
 <tspan x="10" y="1642">  │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="1658">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1674">  │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="1690">  │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1690">  │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="1706">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1722">  │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1738">  │ │   ├── jsbn@0.1.1 </tspan>
